@@ -2,6 +2,6 @@
 
 @section('content')
 
-    main dashboard
+    
 
 @endsection
